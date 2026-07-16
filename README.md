@@ -4,7 +4,7 @@
 AquaSol is an AI-powered IoT-based smart irrigation system designed to optimize water usage through intelligent decision-making and real-time environmental monitoring. The platform combines embedded systems, cloud computing, and machine learning to enable autonomous, data-driven irrigation for precision agriculture.
 
 ---
-##🚀 Official APK Download
+#🚀 Official APK Download
 You can download and install the latest stable production build of the Android application here: 👉 Download AquaSol Latest Release APK
 
 Includes the native aspect-ratio dynamic startup video and custom high-resolution AquaSol branding launcher icons.
